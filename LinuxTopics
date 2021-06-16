@@ -8,11 +8,21 @@ runlevels, targets, sysvinit, systemd, process id 1,
 Anaconda, kickstart, 
 Boot troubelshooting, Installing grub, 
 Kernel panics,
+---
+Links:
 ====
 
 2) Shell:
 Types of sheels, env_varibales, global variables, export command, profiles and bashrc files, standard streams, redirections, regexs, 
 scripting, config files, 
+----
+Links: 
+https://www.guru99.com/shell-scripting-interview-questions.html
+https://www.edureka.co/blog/interview-questions/shell-scripting-interview-questions/
+https://www.upgrad.com/blog/shell-scripting-interview-questions-answers/
+https://linuxhint.com/bash_scripting_interview_questions/
+https://www.linuxtechi.com/linux-shell-scripting-interview-questions-answers/
+https://linoxide.com/shell-scripting-interview-questions-answers/
 ====
 
 3) Process:
