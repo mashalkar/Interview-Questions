@@ -10,7 +10,15 @@ Boot troubelshooting, Installing grub,
 Kernel panics,
 ---
 Links:
+1) https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/    Complete boot process.
+2) GRUB vs GRUB2: https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/  
+and https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader/ 
+and https://www.codementor.io/@packt/grub-and-grub2-qevq1yree
+3) 
+
 ====
+
+
 
 2) Shell:
 Types of sheels, env_varibales, global variables, export command, profiles and bashrc files, standard streams, redirections, regexs, 
