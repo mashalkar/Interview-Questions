@@ -3,18 +3,22 @@ Below are Linux interview topics:
 Collecting each and every question is not possible. So, below are the topics which can be refered while preparing:
 
 1) Basics: 
-GRUB, GRUB2, LILO, Partition table, UEFI, GPT, MBR, Initramfs, Intitramrd, vmlinuz, Boot process, 
+Legacy BIOS vs UEFI | Partition table:GPT vs MBR | Boot Loaders: GRUB, GRUB2, LILO | Booting process legacy vs uefi
+Initramfs, Intitramrd, vmlinuz
 runlevels, targets, sysvinit, systemd, process id 1, 
 Anaconda, kickstart, 
 Boot troubelshooting, Installing grub, 
 Kernel panics,
 ---
 Links:
-1) https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/    Complete boot process.
-2) GRUB vs GRUB2: https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/  
+Legacy BIOS vs UEFI: https://fossbytes.com/uefi-bios-gpt-mbr-whats-difference/
+MBR vs GPT partition table: https://www.mustbegeek.com/difference-between-mbr-and-gpt/
+https://docs.google.com/document/d/1GJTPKkasOxuShUwi3VuJ_Wjpxf5WjLLfcxv5Xt9LWOs/edit
+GRUB vs GRUB2: https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/  
 and https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader/ 
 and https://www.codementor.io/@packt/grub-and-grub2-qevq1yree
-3) 
+
+Complete boot process https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/
 
 ====
 
@@ -24,7 +28,7 @@ and https://www.codementor.io/@packt/grub-and-grub2-qevq1yree
 Types of sheels, env_varibales, global variables, export command, profiles and bashrc files, standard streams, redirections, regexs, 
 scripting, config files, 
 ----
-Links: 
+Links: differnt shells: https://www.edureka.co/blog/types-of-shells-in-linux/
 https://www.guru99.com/shell-scripting-interview-questions.html
 https://www.edureka.co/blog/interview-questions/shell-scripting-interview-questions/
 https://www.upgrad.com/blog/shell-scripting-interview-questions-answers/
@@ -63,4 +67,22 @@ tar,zip,bzip,gzip,zcat
 lsof, curl, wget
 dd,hexdump, nohup,screen, atime,mtime,ctime
 ssh, top, strace
+
+
+
+
+
+
+
+
+
+===============================================
+Linux Interview Questions link:
+https://www.interviewbit.com/linux-interview-questions/
+https://www.besanttechnologies.com/linux-interview-questions-and-answers
+https://www.golinuxhub.com/2018/06/scenario-based-interview-question-beginner-experience-linux/
+https://www.temok.com/blog/linux-interview-questions/
+https://svrtechnologies.com/new-54-linux-admin-interview-questions-and-answers-pdf/
+https://linoxide.com/linux-interview-questions-answers/
+
 
