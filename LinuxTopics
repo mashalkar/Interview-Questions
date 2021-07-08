@@ -1,6 +1,6 @@
 
-Below are Linux interview topics:
-Collecting each and every question is not possible. So, below are the topics which can be refered while preparing:
+###   Below are Linux interview topics   ###
+- Collecting each and every question is not possible. So, below are the topics which can be refered while preparing:
 
 1) Basics: 
 Legacy BIOS vs UEFI | Partition table:GPT vs MBR | Boot Loaders: GRUB, GRUB2, LILO | Booting process legacy vs uefi
