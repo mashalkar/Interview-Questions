@@ -17,16 +17,19 @@ https://docs.google.com/document/d/1GJTPKkasOxuShUwi3VuJ_Wjpxf5WjLLfcxv5Xt9LWOs/
 GRUB vs GRUB2: https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/  
 and https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader/ 
 and https://www.codementor.io/@packt/grub-and-grub2-qevq1yree
-
+Initrd,Initramfs:   www.ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/
 Complete boot process https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/
+================
 
-====
 
 
 
 2) Shell:
 Types of sheels, env_varibales, global variables, export command, profiles and bashrc files, standard streams, redirections, regexs, 
 scripting, config files, 
+
+
+
 ----
 Links: differnt shells: https://www.edureka.co/blog/types-of-shells-in-linux/
 https://www.guru99.com/shell-scripting-interview-questions.html
@@ -36,6 +39,9 @@ https://linuxhint.com/bash_scripting_interview_questions/
 https://www.linuxtechi.com/linux-shell-scripting-interview-questions-answers/
 https://linoxide.com/shell-scripting-interview-questions-answers/
 ====
+
+
+
 
 3) Process:
 nice,renice, fuser, zombie, orphan, IPC's, process states, Exit status, kernel and user space, cache, buffer, Avg load, strace
