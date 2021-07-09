@@ -1,3 +1,5 @@
+// Deprecated. Moved to https://github.com/mashalkar/LinuxPreparation/
+
 Linux Topics:
 
 1) Basics: 
