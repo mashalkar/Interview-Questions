@@ -31,7 +31,11 @@ scripting, config files,
 
 
 ----
-Links: differnt shells: https://www.edureka.co/blog/types-of-shells-in-linux/
+Links: \
+Differnt types shells: https://www.edureka.co/blog/types-of-shells-in-linux/
+Special variables: https://www.tutorialspoint.com/unix/unix-special-variables.htm#:~:text=If%20a%20script%20receives%20two%20arguments%2C%20%24%2A%20is,process%20ID%20under%20which%20they%20are%20executing.%20%24%21
+
+Questions:
 https://www.guru99.com/shell-scripting-interview-questions.html
 https://www.edureka.co/blog/interview-questions/shell-scripting-interview-questions/
 https://www.upgrad.com/blog/shell-scripting-interview-questions-answers/
